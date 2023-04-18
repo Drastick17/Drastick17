@@ -1,16 +1,4 @@
 <h1 align="center">Hola, Soy Danny Solano</h1>
-<h3 align="center">Desarrollador Frontend Junior</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drastick17&label=Profile%20views&color=0e75b6&style=flat" alt="drastick17" /> </p>
-
-- 🔭Trabajo actualmente en [MarketPlace Aismoda](https://github.com/Python-en-equipo/MarketPlace)
-
-- 🌱 Estoy Aprendiendo **Nextjs, Vuejs, Laravel**
-
-- My portafolio [____](____)
-
-- Preguntame sobre **React, Node, Js**
-
 - Correo **danny12solano@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
