@@ -8,3 +8,4 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
+<img src ="https://img.shields.io/github/followers/Drastick17" alt="github-followers" />
