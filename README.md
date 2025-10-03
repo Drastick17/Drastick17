@@ -1,70 +1,86 @@
-# 🌟 Hi, I'm Danny 👋
-### FullStack Developer | Software Engineering Graduate  
+
+<hr>
+<br>
+
+## Github Contribution Streak 🔥 
+<br>
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=drastick17&theme=blueberry-duo&border_radius=10">
+</p>
+
+<hr>
+<br>
+
+## Github Stats &nbsp;📊
+<br>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=drastick17&show_icons=true&theme=github_dark">
+</p>
+
+<hr>
+<br>
+
+## Most Used Languages 📚
+<br>
+<p align='center'>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=drastick17&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<p align='center'>
+  <h6>Note: Does not indicate skill level, just GitHub usage metrics.</h6>
+</p>
+
+<hr>
+<br>
+
+## 3D Contribution Calendar 📅
+<br>
+<p align='center'>
+  <img src="./profile-3d-contrib/profile-night-view.svg">
+</p>
+
+<hr>
+<br>
+
+## Technology Stack 💻
+<p align='center'>
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" allowFullScreen>
+</p>
+
+### Languages, Frameworks, Platforms and Libraries 🖥 :
+<p align='center'>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
+
+### IDEs & Editors 👨‍🔧
+<p align='center'>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+  <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">
+</p>
+
+### Version Control 🔧
+<p align='center'>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+### Social Media 🔗
+<p align='center'>
+  <a href="mailto:example@mail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/example"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/example"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
+
+<hr>
+<br>
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/danny" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/danny-solano/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
-
----
-
-## 💻 Hero Section
-![Hero Image](https://via.placeholder.com/800x300?text=Welcome+to+Danny's+Portfolio)
-
-**Welcome!** I’m a passionate fullstack developer. I love building scalable web apps and learning new technologies.  
-
-[Check my Projects](https://danny-dev-steel.vercel.app/) | [Contact Me](#contact)
-
----
-
-## 🔭 Current Work
-I’m currently working at **HEX S.A**
-
-## 🌱 Learning
-Currently exploring **C#**
-
-## 💬 Expertise
-Ask me about: **Javascript, Python, PHP, Java**
-
----
-
-## 🛠 Skills & Tools
-
-| Frontend | Backend | DevOps | Other |
-|----------|---------|--------|-------|
-| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) | ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg) | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) |
-| ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) | ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) | ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) |
-| ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) | ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) | ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg) | ![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) |
-| ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg) | ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg) |
-
-> *(You can add more icons here as needed—this is just a clean preview.)*
-
----
-
-## 🏆 Projects
-- All projects are available at: [Portfolio](https://danny-dev-steel.vercel.app/)  
-- Highlight: **HEX S.A apps, web dashboards, and automation projects**  
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drastick17&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drastick17&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-## 📫 Contact Me
-- Email: contact@example.com  
-- LinkedIn: [linkedin.com/in/danny-solano](https://linkedin.com/in/danny-solano/)  
-- Dev.to: [dev.to/danny](https://dev.to/danny)  
-
-[Send a Message](mailto:contact@example.com)  
